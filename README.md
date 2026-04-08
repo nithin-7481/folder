@@ -1,7 +1,7 @@
 # my project
 this is my portfolio website
 ## project link
-https://github.com/nithin-7481/folder.git
+https://roadmap.sh/projects/portfolio-website
 ##features
 -responsive design
 -clean UI
